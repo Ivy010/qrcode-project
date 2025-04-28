@@ -24,7 +24,7 @@ This project is a simple QR code component designed as a card. It displays a QR 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://ivy010.github.io/qrcode-project/)
 
 ## My process
 - Setup: Started by structuring the basic HTML5 skeleton and inserting the QR code image.
@@ -52,5 +52,5 @@ This project is a simple QR code component designed as a card. It displays a QR 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Ivy Mugure]( https://ivy010.github.io/qrcode-project/)
+- Frontend Mentor - [@Ivy010](https://www.frontendmentor.io/profile/Ivy010)
